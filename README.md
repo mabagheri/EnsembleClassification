@@ -1,5 +1,15 @@
 # Ensemble Classification
-This toolbox provides some combination methods to fuse an ensemble of classifiers
+This toolbox provides some combination methods to fuse an ensemble of classifiers. These methods include: 
+- Majority Vote
+- Maximum (MAX)
+- Sum (SUM)
+- Minimum (MIN)
+- Average (AVR)
+- Product (PRO)
+- Bayes
+- Decision Template
+- Dempster-Sahfer fusion method
+- Behavior Knowledge Space (BKS)
 
 For better understanding of the toolbox, reading the following references is strongly recommended 
 [1] R. Polikar, "Ensemble based systems in decision making," IEEE Circuits and Systems Magazine, vol. 6, pp. 21-45, 2006. 

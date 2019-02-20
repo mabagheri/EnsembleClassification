@@ -11,8 +11,9 @@ This toolbox provides some combination methods to fuse an ensemble of classifier
 - Dempster-Sahfer fusion method
 - Behavior Knowledge Space (BKS)
 
-For better understanding of the toolbox, reading the following references is strongly recommended 
+For better understanding of the toolbox, reading the following references is strongly recommended:
 [1] R. Polikar, "Ensemble based systems in decision making," IEEE Circuits and Systems Magazine, vol. 6, pp. 21-45, 2006. 
+
 [2] L. I. Kuncheva, Combining Pattern Classifiers: Methods and Algorithms. New York, NY: Wiley, 2004.
  
 ## How to use 
